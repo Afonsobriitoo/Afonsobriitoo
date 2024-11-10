@@ -32,7 +32,17 @@ No decorrer da disciplina tenho trabalhado e aprimorado as seguintes competênci
 ---
 
 ## 🚀 Trabalho Desenvolvido.
-Resumo do trabalho realizado durante as semanas
+Resumo do trabalho realizado durante as semanas:
+- **1ª Semana:** Primeiro contacto com a disciplina algumas noções, realização de uma ficha diagnostico, regras da disciplina e algumas indicações.  Nada demais a dizer
+- **2ª Semana:** Resolução de alguns exercicios de algortimos, fluxogramas etc... Inicio de o trabalho utilizando um IDE (No meu caso, de preferência PyCharm), alguns tipos de dados e comandos na linguagem Python. Muito interesse pela disciplina na vertente prática em IDE.
+- **3ª Semana:** Resolução da Ficha 02, achei bastante acessível exceto o exercício 14. Utilizei alguma pesquisa em diversos websites:
+  [https://pythonbasics.org]
+  [https://www.w3schools.com]
+  **4ª Semana:** Resolução Ficha 03 alguns exercícios mais "engraçados" e que fazem pensar mais um pouco.
+- **5ª Semana:** Continuação da resolução Ficha 03 e realização da atividade da CodeWeek (Bastante interessante) e realização de um questionário em realação à atividade.
+- **6ª Semana:** Continuação da resolução Ficha 03.
+- **7ª Semana:** Resolução da ficha 04 (Biblioteca Turtle). Algo diferente e mais "interativo"
+- **8ª Semana:** 
 
 ---
 
