@@ -67,7 +67,7 @@ Concluindo, este portfólio reflete o meu percurso e evolução na disciplina. P
 ---
 
 ## 📫 Contacto
-Se precisar de entrar em contacto o professor pode fazê-lo, através de [Email](59963@esjf.edu.pt)
+Se precisar de entrar em contacto o professor pode fazê-lo, através de [Email](mailto:59963@esjf.edu.pt)
 
 Obrigado por visitar o meu portfólio!
 ****
