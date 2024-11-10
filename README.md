@@ -39,7 +39,7 @@ Resumo do trabalho realizado durante as semanas:
   [https://pythonbasics.org]
   [https://www.w3schools.com]
 - **4ª Semana (7/13):** Resolução Ficha 03 alguns exercícios mais "engraçados" e que fazem pensar mais um pouco.
-- **5ª Semana (14/20):** Continuação da resolução Ficha 03 e realização da atividade da CodeWeek (Bastante interessante) e realização de um questionário em realação à atividade.
+- **5ª Semana (14/20):** Continuação da resolução Ficha 03 e realização da atividade da CodeWeek (Bastante interessante) e realização de um questionário em relação à atividade.
 - **6ª Semana (21/27):** Continuação da resolução Ficha 03.
 - **7ª Semana (28/3):** Resolução da Ficha 04 (Biblioteca Turtle). Algo diferente e mais "interativo". Achei simples.
 - **8ª Semana (4/10):** Resolução da Ficha 05. Agora sim achei mais complicado, já me deu "mais dores de cabeça". Bastantes até, o apoio serviu de ajuda, mesmo tentando fazer por mim próprio. Demorei um bom tempo até conseguir acabar a tarefa. Acho que o professor tem que dar mais iniciativa ao aluno, há vezes que estou a fazer os exercícios e toda a explicação do professor de fundo de um outro exercício qualquer atrapalha um pouco. Eu sei que é complicado para o professor também porque dentro da turma tem diferentes níveis de capacidade de realizar a tarefa a x velocidade e com y independência do aluno para com o professor.
