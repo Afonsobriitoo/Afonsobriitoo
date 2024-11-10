@@ -6,72 +6,39 @@ Olã Professor!!! Bem-vindo ao meu portfólio digital da disciplina de **Aplica�
 1. [👤 Sobre Mim](#-sobre-mim)
 2. [🎯 Objetivo do Portfólio](#-objetivo-do-portfólio)
 3. [📚 Competências Desenvolvidas](#-competências-desenvolvidas)
-4. [🚀 Projetos](#-projetos)
+4. [🚀 Trabalho Desenvolvido](#-trabalho-desenvolvido)
 5. [🛠️ Ferramentas Utilizadas](#️-ferramentas-utilizadas)
 6. [📈 Conclusão e Próximos Passos](#-conclusão-e-próximos-passos)
 
 ---
 
 ## 👤 Sobre Mim
-Sou um estudante do 12º ano, apaixonado por tecnologia e sempre em busca de novos desafios no mundo da informática. Com este portfólio, pretendo mostrar o meu progresso e dedicação na disciplina de **Aplicações Informáticas B**.
+Sou um estudante do 12º ano, desde pequeno ligado e bastante interessado por tecnologia e sempre em busca de novos desafios no mundo da informática. Durante a quarentena tive o meu primeiro contacto com a programação, mas que na verdade, pouco durou e quase ou nada aprendi. Com este portfólio, pretendo mostrar o meu progresso na disciplina de **Aplicações Informáticas B**.
 
 ## 🎯 Objetivo do Portfólio
 Este portfólio tem como objetivo:
 - Documentar o meu **processo de aprendizagem**
-- Demonstrar os projetos realizados ao longo do curso
+- Demonstrar os projetos realizados ao longo da disciplina
 - Explorar as competências adquiridas e desafios enfrentados
 
 ---
 
 ## 📚 Competências Desenvolvidas
-Ao longo do curso, tenho trabalhado nas seguintes competências:
-- **Desenvolvimento Web:** HTML, CSS e JavaScript para criação de interfaces dinâmicas
-- **Gestão de Projetos com Git e GitHub:** Organização e versionamento de código
-- **Noções de Algoritmia e Programação:** Lógica, estrutura de dados e resolução de problemas
-- **Criação de Bases de Dados:** Compreensão de conceitos básicos e criação de bases de dados simples
+Ao longo da disciplina, tenho trabalhado nas seguintes competências:
+- **Gestão de Projetos:** Organização e versionamento de código.
+- **Noções de Algoritmia e Programação:** Lógica, estrutura de dados e resolução de problemas.
 
 ---
 
-## 🚀 Projetos
-
-### 📌 Projeto 1: Landing Page para Negócio Local
-> **Descrição:** Desenvolvi uma landing page para um negócio local, com o objetivo de atrair clientes e fornecer informações relevantes de forma visualmente atrativa.
-> 
-> **Tecnologias:** HTML, CSS, JavaScript  
-> **Screenshot:**  
-> ![Imagem do Projeto 1](link-da-imagem)  
-> **Link para o Projeto:** [Ver Projeto](#)  
-> **Exemplo de Código:**
-> ```html
-> <div class="hero-section">
->   <h1>Bem-vindo ao [Nome do Negócio]</h1>
->   <p>A melhor experiência em [Serviço do Negócio]</p>
-> </div>
-> ```
-
-### 📌 Projeto 2: Sistema de Gestão de Tarefas
-> **Descrição:** Este projeto consiste num sistema de gestão de tarefas, onde é possível adicionar, remover e visualizar tarefas numa interface web.
-> 
-> **Tecnologias:** HTML, CSS, JavaScript  
-> **Screenshot:**  
-> ![Imagem do Projeto 2](link-da-imagem)  
-> **Link para o Projeto:** [Ver Projeto](#)  
-> **Exemplo de Código:**
-> ```javascript
-> const addTask = (task) => {
->   tasks.push(task);
->   renderTasks();
-> };
-> ```
+## 🚀 Trabalho Desenvolvido
 
 ---
 
 ## 🛠️ Ferramentas Utilizadas
 - **Git e GitHub:** Ferramentas para versionamento e colaboração de código.
-- **Visual Studio Code:** Editor de código para desenvolver os projetos.
-- **Figma:** Para planeamento e prototipagem de interfaces.
-- **Canva:** Para criação de designs gráficos rápidos e eficientes.
-- **HTML, CSS e JavaScript:** Linguagens principais utilizadas para desenvolvimento web.
+- **Spyder e Pycharm:** Editor de código para desenvolver os projetos.
+- **Python:** Como linguagem principal utilizada.
+- **Bibliotecas Diversas** Como Turtle.
 
 ---
 
