@@ -38,7 +38,7 @@ Resumo do trabalho realizado durante as semanas:
 - **3ª Semana:** Resolução da Ficha 02, achei bastante acessível exceto o exercício 14. Utilizei alguma pesquisa em diversos websites:
   [https://pythonbasics.org]
   [https://www.w3schools.com]
-  **4ª Semana:** Resolução Ficha 03 alguns exercícios mais "engraçados" e que fazem pensar mais um pouco.
+- **4ª Semana:** Resolução Ficha 03 alguns exercícios mais "engraçados" e que fazem pensar mais um pouco.
 - **5ª Semana:** Continuação da resolução Ficha 03 e realização da atividade da CodeWeek (Bastante interessante) e realização de um questionário em realação à atividade.
 - **6ª Semana:** Continuação da resolução Ficha 03.
 - **7ª Semana:** Resolução da ficha 04 (Biblioteca Turtle). Algo diferente e mais "interativo"
