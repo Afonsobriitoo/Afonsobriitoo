@@ -43,8 +43,10 @@ Resumo do trabalho realizado durante as semanas:
 - **6ª Semana (21/27):** Continuação da resolução Ficha 03.
 - **7ª Semana (28/3):** Resolução da Ficha 04 (Biblioteca Turtle). Algo diferente e mais "interativo". Achei simples.
 - **8ª Semana (4/10):** Resolução da Ficha 05. Agora sim achei mais complicado, já me deu "mais dores de cabeça". Bastantes até, o apoio serviu de ajuda, mesmo tentando fazer por mim próprio. Demorei um bom tempo até conseguir acabar a tarefa. Acho que o professor tem que dar mais iniciativa ao aluno, há vezes que estou a fazer os exercícios e toda a explicação do professor de fundo de um outro exercício qualquer atrapalha um pouco. Eu sei que é complicado para o professor também porque dentro da turma tem diferentes níveis de capacidade de realizar a tarefa a x velocidade e com y independência do aluno para com o professor.
-- **9ª Semana (11/17):**
-- **10ª Semana (18/24):**
+- **9ª Semana (11/17):** Início da resolução da Ficha 06. Até agora a ficha que mais gostei e achei interessante de resolver, gosto de introduzir bibliotecas e mais possíbilidades de código. Participação na atividade Bebras - O Desafio Internacional de Pensamento Computacional.
+- **10ª Semana (18/24):** Continuação da resolução da Ficha 06.
+- **11ª Semana (25/1):** Início da resolução da Ficha 07. Algumas indicações em relações aos mini-projetos e datas de entregas de trabalhos, avaliação de portfólio e do momento formal de avaliação.
+- **12ª Semana (2/8):** Continuação da resolução das fichas e dos mini-projetos.
 ---
 
 ## 🛠️ Ferramentas Utilizadas.
