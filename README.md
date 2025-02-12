@@ -51,9 +51,9 @@ Resumo do trabalho realizado durante as semanas:
 - **14ª Semana (16-17-Dezembro FIM 1º PERÍODO):** Auto e hetero-avaliação e entrega dos testes. Estava à espera da nota que o professor me atribiui, quero mais, e vou trabalhar por mais.
 - **15ª Semana (6/12)-Janeiro INÍCIO 2º PERÍODO):** Início do desenvolvimento da Ficha 08, estava um pouco atrasado em relação à ficha 7, achei que tinha um grau de dificuldade elevado, e a pausa pelo meio deixou me sem ritmo nenhum. Demorei a voltar a "normalidade"
 - **16ª Semana (13/19-Janeiro):** Esta semana foi interessante, o professor apareceu com umas caixas lego "SPIKE", trata-se de robótica com legos, permite programar por blocos ou em python, tivemos o primeiro contacto, regras e instruções. Continuação de desenvolvimento das Fichas de trabalho 7 e 8.
-- **17ª Semana (20/26_Janeiro):** Em relação ao "SPIKE", foi o primeiro momento que programamos o robô, por blocos, e realizamos uma pequena tarefa. [ADICIONAR VÍDEO]. continuação de desenvolvimento das Fichas de trabalho 7 e 8.
+- **17ª Semana (20/26_Janeiro):** Em relação ao "SPIKE", foi o primeiro momento que programamos o robô, por blocos, e realizamos uma pequena tarefa. [Vídeo em anexo Drive]. continuação de desenvolvimento das Fichas de trabalho 7 e 8.
 - **18ª Semana (27/2-Janeiro/Fevereiro):** Conclusão da Ficha 7 e continuação de desenvolvimento da Ficha 8.
-- **19ª Semana (3/9-Fevereiro):** Início do desenvolviemnto do projeto com o "SPIKE" [ADICIONAR VÍDEO] em grupos na sala LED. Início do desenvolviemnto da Ficha 9, ainda atrasado com a Ficha 8.
+- **19ª Semana (3/9-Fevereiro):** Início do desenvolviemnto do projeto com o "SPIKE" [Vídeo em anexo Drive] em grupos na sala LED. Início do desenvolviemnto da Ficha 9, ainda atrasado com a Ficha 8.
 - **20ª Semana (10/16-Fevereiro):**
 ---
 
@@ -64,6 +64,7 @@ Ao longo da disciplina, tenho utilizado as seguintes ferramentas:
 - **Python:** Como linguagem principal utilizada.
 - **Bibliotecas Diversas** Como Turtle.
 - **Materiais de Robótica** "SPIKE PRIME" Lego.
+- **Anexo Drive** https://drive.google.com/drive/folders/1f8MxrrVMoj5655-wRSmYxjsd8PrgYegi?usp=drive_link
 
 ---
 
