@@ -55,6 +55,20 @@ Resumo do trabalho realizado durante as semanas:
 - **18ª Semana (27/2-Janeiro/Fevereiro):** Conclusão da Ficha 7 e continuação de desenvolvimento da Ficha 8.
 - **19ª Semana (3/9-Fevereiro):** Início do desenvolviemnto do projeto com o "SPIKE" [Vídeo em anexo Drive] em grupos na sala LED. Início do desenvolviemnto da Ficha 9, ainda atrasado com a Ficha 8.
 - **20ª Semana (10/16-Fevereiro):**
+- **21ª Semana (17/23-Fevereiro):**
+- **22ª Semana (24/2-Fevereiro/Março):**
+- **23ª Semana (3/9Março):**
+- **34ª Semana (10/16-Março):**
+- **25ª Semana (17/23-Março):**
+- **26ª Semana (24/30-Março):**
+- **27ª Semana (31/6-Março/Abril FIM 2º PERÍODO):**
+- **28ª Semana (21/27-Abril INÍCIO DO 3º PERÍODO):**
+- **29ª Semana (28/4-Abril/Maio):**
+- **30ª Semana (5/11-Maio):**
+- **31ª Semana (12/18-Maio):**
+- **32ª Semana (19/25-Maio):**
+- **33ª Semana (26/1-Maio/Junho):**
+- **34ª Semana (2/8-Junho FIM 3º PERÍODO [FINAL DAS AULAS]):**
 ---
 
 ## 🛠️ Ferramentas Utilizadas.
