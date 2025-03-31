@@ -47,21 +47,21 @@ Resumo do trabalho realizado durante as semanas:
 - **10ª Semana (18/24-Novembro):** Continuação da resolução da Ficha 06.
 - **11ª Semana (25/1-Novembro/Dezembro):** Início da resolução da Ficha 07. Algumas indicações em relações aos mini-projetos e datas de entregas de trabalhos, avaliação de portfólio e do momento formal de avaliação.
 - **12ª Semana (2/8-Dezembro):** Continuação da resolução das fichas e dos mini-projetos.
-- **13ª Semana (9/15-Dezembro):** Continuação da resolução das fichas e dos mini-projetos e teste de avaliação, achei acessível o teste, mas o facto de escrever código com papel e caneta torna-se muito mais complicado, até para alguém que sabe o que tem que fazer, acho que o fator de visualizar o código e executar o mesmo, é uma diferença absurda e acaba por "facilitar" o processo.
+- **13ª Semana (9/15-Dezembro):** Continuação da resolução das fichas, dos mini-projetos e teste de avaliação, achei acessível o teste, mas o facto de escrever código com papel e caneta torna-se muito mais complicado, até para alguém que sabe o que tem que fazer, acho que o fator de visualizar o código e executar o mesmo, é uma diferença absurda e acaba por "facilitar" o processo.
 - **14ª Semana (16-17-Dezembro FIM 1º PERÍODO):** Auto e hetero-avaliação e entrega dos testes. Estava à espera da nota que o professor me atribiui, quero mais, e vou trabalhar por mais.
 - **15ª Semana (6/12)-Janeiro INÍCIO 2º PERÍODO):** Início do desenvolvimento da Ficha 08, estava um pouco atrasado em relação à ficha 7, achei que tinha um grau de dificuldade elevado, e a pausa pelo meio deixou me sem ritmo nenhum. Demorei a voltar a "normalidade"
 - **16ª Semana (13/19-Janeiro):** Esta semana foi interessante, o professor apareceu com umas caixas lego "SPIKE", trata-se de robótica com legos, permite programar por blocos ou em python, tivemos o primeiro contacto, regras e instruções. Continuação de desenvolvimento das Fichas de trabalho 7 e 8.
 - **17ª Semana (20/26_Janeiro):** Em relação ao "SPIKE", foi o primeiro momento que programamos o robô, por blocos, e realizamos uma pequena tarefa. [Vídeo em anexo Drive]. continuação de desenvolvimento das Fichas de trabalho 7 e 8.
 - **18ª Semana (27/2-Janeiro/Fevereiro):** Conclusão da Ficha 7 e continuação de desenvolvimento da Ficha 8.
 - **19ª Semana (3/9-Fevereiro):** Início do desenvolviemnto do projeto com o "SPIKE" [Vídeo em anexo Drive] em grupos na sala LED. Início do desenvolviemnto da Ficha 9, ainda atrasado com a Ficha 8.
-- **20ª Semana (10/16-Fevereiro):**
-- **21ª Semana (17/23-Fevereiro):**
-- **22ª Semana (24/2-Fevereiro/Março):**
-- **23ª Semana (3/9Março):**
-- **34ª Semana (10/16-Março):**
-- **25ª Semana (17/23-Março):**
-- **26ª Semana (24/30-Março):**
-- **27ª Semana (31/6-Março/Abril FIM 2º PERÍODO):**
+- **20ª Semana (10/16-Fevereiro):** Continuação do desenvolvimento do projeto em "SPIKE" [TRABALHO DE GRUPO].
+- **21ª Semana (17/23-Fevereiro):** Conclusão do projeto em "SPIKE". Apresentação dos trabalhos de grupo.
+- **22ª Semana (24/2-Fevereiro/Março):** Finalização das apresentações e defesa das mesmas.
+- **23ª Semana (3/9Março):** Conclusão do desenvolvimento da Ficha 8 e continuação do desenvolvimento da Ficha 9. Achei um pouco chato repetir basicamente tudo só adicionando o código em função de uma chamada. Senti que era repetitiva e comprida demais pois repetia-se muito do mesmo em cada exercício em.
+- **34ª Semana (10/16-Março):** Início do estudo do D2_Multimedia. Aula teórica, um pouco chato, muita teoria. Conceitos e fundamentos. Bitmap e Vetorial
+- **25ª Semana (17/23-Março):** Início do trabalho de multimedia em edição de imagem. Utilizei o Photopea em primeira instância. Desenvolvimento do Exercício 1.
+- **26ª Semana (24/30-Março):** Continuação do desenvolvimento de edição de imagem. Continuação do desenvolvimento dos exercícios 2, 3, 4, 5 e 6. Utilizei o photoshop. Não gosto nada desta matéria. É mesmo chata e super desinteressante para mim. Depois de programação tive um balde de água fria, perdi a vontade toda de ir às aulas.
+- **27ª Semana (31/6-Março/Abril FIM 2º PERÍODO):** Conclusão dos exercícios de aula. Auto e hetero-avaliação. 
 - **28ª Semana (21/27-Abril INÍCIO DO 3º PERÍODO):**
 - **29ª Semana (28/4-Abril/Maio):**
 - **30ª Semana (5/11-Maio):**
