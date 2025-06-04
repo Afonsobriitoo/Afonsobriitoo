@@ -62,13 +62,14 @@ Resumo do trabalho realizado durante as semanas:
 - **25ª Semana (17/23-Março):** Início do trabalho de multimedia em edição de imagem. Utilizei o Photopea em primeira instância. Desenvolvimento do Exercício 1.
 - **26ª Semana (24/30-Março):** Continuação do desenvolvimento de edição de imagem. Continuação do desenvolvimento dos exercícios 2, 3, 4, 5 e 6. Utilizei o photoshop. Não gosto nada desta matéria. É mesmo chata e super desinteressante para mim. Depois de programação tive um balde de água fria, perdi a vontade toda de ir às aulas.
 - **27ª Semana (31/6-Março/Abril FIM 2º PERÍODO):** Conclusão dos exercícios de aula. Auto e hetero-avaliação. 
-- **28ª Semana (21/27-Abril INÍCIO DO 3º PERÍODO):**
-- **29ª Semana (28/4-Abril/Maio):**
-- **30ª Semana (5/11-Maio):**
-- **31ª Semana (12/18-Maio):**
-- **32ª Semana (19/25-Maio):**
-- **33ª Semana (26/1-Maio/Junho):**
-- **34ª Semana (2/8-Junho FIM 3º PERÍODO [FINAL DAS AULAS]):**
+- **28ª Semana (21/27-Abril INÍCIO DO 3º PERÍODO):** Aula teórica de gravação de vídeo. conceitos básicos de som e vídeo
+- **29ª Semana (28/4-Abril/Maio):** Atividade (PESES). Resolução de um exercício de edição de áudio. Muito fácil e rápido ao meu ver. Estava à espera de mais...
+- **30ª Semana (5/11-Maio):** Indicações para o desenvolvimento do projeto final de vídeo. Passos e processo para a construção do mesmo. Ferramentas e dicas e gravação e planos.
+- **31ª Semana (12/18-Maio):** Desenvolvimento do storyboard para o vídeo e início das gravações. Não gosto nada disto, fruto da minha pouca criatividade para estes temas e falta de interesse também.
+- **32ª Semana (19/25-Maio):** Continuação do desenvolvimento do vídeo. Tivemos vários problemas e não conseguimos concretizar inteiramente a ideia inicial.
+- **33ª Semana (26/1-Maio/Junho):** Finalização do desenvolvimento do vídeo e edição do mesmo.
+- **34ª Semana (2/8-Junho FIM 3º PERÍODO [FINAL DAS AULAS]):** Apresentação do vídeo e autoavaliação.
+- **OBRIGADO!**
 ---
 
 ## 🛠️ Ferramentas Utilizadas.
